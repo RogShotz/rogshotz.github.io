@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/RogShotz/rogshotz.github.io/issues"
   },
-  "homepage": "https://github.com/RogShotz/rogshotz.github.io#readme",
+  "homepage": "https://RogShotz.github.io/rogshotz.github.io",
   "dependencies": {
     "express": "^5.1.0"
   },
