@@ -1,3 +1,31 @@
+/* Nav Bar */
+.navbar {
+  background-color: #1b1b1b !important; /* override Bootstrap default */
+  color: #f8f9fa !important;           /* light text */
+}
+
+.navbar a {
+  color: #ffffff !important;
+}
+
+.navbar a:hover {
+  color: #eb833e !important;
+}
+
+/* Page Customizations */
+body {
+  background-color: #242424; /* dark background */
+  color: white; /* text color so it's readable */
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  min-height: 100vh; /* make sure it covers full viewport */
+}
+
+
+/* Default */
 .App {
   text-align: center;
 }
